@@ -1,4 +1,4 @@
-# Capistrano Example App
+# Capistrano Example App (test)
 
 A minimal Rails 8.0 application demonstrating deployment with Capistrano, Puma, and Sidekiq using systemd.
 
