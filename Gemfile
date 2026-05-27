@@ -49,7 +49,7 @@ group :development do
   gem "capistrano", require: false
   gem "capistrano-rbenv", require: false
   gem "capistrano-bundler", require: false
-  gem "capistrano-sidekiq", github: "seuros/capistrano-sidekiq", require: false
-  gem "capistrano3-puma", github: "seuros/capistrano-puma", require: false
+  gem "capistrano-sidekiq", require: false
+  gem "capistrano3-puma", require: false
 end
 gem "falcon", "~> 0.52.3"
